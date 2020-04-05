@@ -10,7 +10,7 @@ A particle-theme template as a landing page for your portfolio.
   - Fork and Clone the repository
 
     ```
-    $ git clone https://github.com/itsron717/ParticleGround-Portfolio.git
+    $ git clone ______
     ```
  
   - Go inside the main repository
@@ -21,7 +21,6 @@ A particle-theme template as a landing page for your portfolio.
     
   - Modify `index.html` to change the names and links to point at your pages.
   
-  - Upload your resume in the place of `deedy.pdf` (Or One can use the famous deedy template and build on that)
    
 # Particle Feature
 
