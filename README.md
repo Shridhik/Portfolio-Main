@@ -1,6 +1,6 @@
 # ParticleGround-Portfolio
 
-Check it out @ Shridhik.Github.io
+[Click Here to See](https://shridhik.github.io/)
 
 A particle-theme template as a landing page for your portfolio.
 
