@@ -2,7 +2,6 @@
 
 A particle-theme template as a landing page for your portfolio.
 
-> [Demo](https://landing-page--itsron717.repl.co/)
 
 <img src="particle_demo/particle_demo.png"/>
 
@@ -31,4 +30,4 @@ The particle feature was obtained with the help of this [particleground](https:/
 
 # References and Inspiration
 
-This template is a minimal form of the [Particle Jekyll Template](https://github.com/nrandecker/particle). Shoutout to my friend [Arko Chatterjee](https://github.com/arkochatterjee) for the motivation. 
+This template is a minimal form of the [Particle Jekyll Template](https://github.com/nrandecker/particle). 
