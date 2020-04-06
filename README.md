@@ -2,7 +2,7 @@
 
 [Click Here to See](https://shridhik.github.io/)
 
-<img src="particle_demo/particle_demo.png"/>
+<img src="particle_demo/particle_demo1.png"/>
 
 # Using the Template
 
