@@ -1,4 +1,4 @@
-# ParticleGround-Portfolio
+# SocialMedia-Portfolio
 
 [Click Here to See](https://shridhik.github.io/)
 
