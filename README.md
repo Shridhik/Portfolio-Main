@@ -2,10 +2,6 @@
 
 [Click Here to See](https://shridhik.github.io/)
 
-A particle-theme template as a landing page for your portfolio.
-
-
-<img src="particle_demo/particle_demo.png"/>
 
 # Using the Template
 
