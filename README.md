@@ -2,7 +2,6 @@
 
 [Click Here to See](https://shridhik.github.io/)
 
-<img src="particle_demo/particle_demo3.png"/>
 
 # Using the Template
 
